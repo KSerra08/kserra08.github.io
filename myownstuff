@@ -1,11 +1,9 @@
-.jumbotron {background-color: green;}
+.jumbotron {background-color: green;
+.btn-danger }
 
-.btn-danger {
-color: #fff;
-background-color: #orange;
-border-color: #orange;
-
-.btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open>.dropdown-toggle.btn-danger {
-color: #fff;
-background-color: orange;
-border-color: orange;
+body {
+  background: url(fire.jpg); font-color: white;
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
